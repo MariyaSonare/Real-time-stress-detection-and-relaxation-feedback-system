@@ -1,4 +1,3 @@
-:::writing{variant="document" id="62841"}
 # Real-Time Stress Detection and Relaxation Feedback System using EMG Sensor and Machine Learning
 
 ## 🧠 Project Overview
