@@ -1,3 +1,4 @@
+:::writing{variant="document" id="62841"}
 # Real-Time Stress Detection and Relaxation Feedback System using EMG Sensor and Machine Learning
 
 ## 🧠 Project Overview
@@ -154,14 +155,3 @@ EMG Sensor + Temperature Sensor
 This project demonstrates how IoT, Machine Learning, and Artificial Intelligence can work together to develop an intelligent stress monitoring and relaxation feedback system. By combining physiological sensing, real-time data processing, automated stress classification, and personalized relaxation guidance, the system provides a portable and cost-effective approach to proactive stress management.
 
 ---
-
-**Note:** This project is developed for educational and research purposes. Its stress classifications are not a substitute for professional medical diagnosis.
-
-⭐ If you find this project interesting, consider giving this repository a star!
-:::Suggested GitHub repository name:
-
-Real-Time-Stress-Detection-Using-EMG-and-ML
-
-Suggested repository description:
-
-Real-time stress detection and relaxation feedback system using EMG sensor, ESP32, temperature sensor, Decision Tree Machine Learning, IoT, and an AI-powered chatbot.
